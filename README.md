@@ -13,7 +13,7 @@ Paste a messy apartment listing → Gemini extracts structured fields → get a 
 Photograph a plant, let AI identify it, organize by room, and track watering — including a shared household.  
 `Next.js` · `Supabase` · `Gemini` · `Vercel`
 
-### [FastSync](https://github.com/adilat-01/fastsync)
+### [FastSync](https://github.com/adilat-01/fastsync) � [Live](https://ourmoneytracker.netlify.app)
 Mobile-first household budget PWA: quick expense entry, recurring bills on the 1st, income vs spend dashboard.  
 `React` · `Supabase` · `Netlify` · `PWA`
 
